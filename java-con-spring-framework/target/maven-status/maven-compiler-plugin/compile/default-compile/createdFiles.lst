@@ -1,0 +1,8 @@
+com/dosideas/service/PaisService.class
+com/dosideas/repository/PaisRepository.class
+com/dosideas/domain/Pais.class
+com/dosideas/exception/PaisNoEncontradoException.class
+com/dosideas/controller/rest/PaisRestController.class
+com/dosideas/controller/PaisController.class
+com/dosideas/service/impl/PaisServiceImpl.class
+com/dosideas/ApplicationConfig.class
